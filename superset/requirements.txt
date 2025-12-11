@@ -1,0 +1,12 @@
+
+pymysql
+
+
+psycopg2-binary
+
+
+pandas
+openpyxl
+
+
+sqlalchemy-utils
